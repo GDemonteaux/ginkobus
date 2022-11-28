@@ -1,3 +1,4 @@
+
 {
     "name": "GinkoBus",
     "short_name": "GinkoBus",
@@ -5,20 +6,21 @@
     "start_url": "index.html",
     "display": "fullscreen",
     "oritentation": "portrait",
-    "background_color": "red",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34",
     "icons": [
         {
-      "src": "incons/icon-32.png",
+      "src": "icons/icon-32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
      {
-        "src": "incons/icon-512.png",
+        "src": "icons/icon-512.png",
         "sizes": "512x512",
         "type": "image/png"
     },
     {
-        "src": "incons/maskable-icon.png",
+        "src": "icons/maskable_icon.png",
         "sizes": "274x274",
         "type": "image/png"
     }]
