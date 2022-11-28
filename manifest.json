@@ -3,7 +3,7 @@
     "name": "GinkoBus",
     "short_name": "GinkoBus",
     "description": "AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA",
-    "start_url": "index.html",
+    "start_url": "./index.html",
     "display": "fullscreen",
     "oritentation": "portrait",
     "theme_color": "#B12A34",
